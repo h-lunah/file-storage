@@ -60,10 +60,10 @@ jobs:
                      uid += 1
                      errors = 0
                  except IndexError:
-                     #uid += 1
-                     #errors += 1
-                     #if errors < 1000:
-                     #    continue
+                     uid += 1
+                     errors += 1
+                     if errors < 1000:
+                         continue
                      break
 
                  scanned += 1
