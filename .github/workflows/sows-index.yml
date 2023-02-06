@@ -116,14 +116,14 @@ jobs:
                         writer.writerow([uid, html.unescape(username), banned])
                     uid += 1
                     errors = 0
-                 except IndexError:
+                except IndexError:
                     uid += 1
                     errors += 1
                     if errors < 1000:
                         continue
                     break
 
-                 scanned += 1
+                scanned += 1
       - name: "Publish the changes"
         uses: EndBug/add-and-commit@v9
         with:
