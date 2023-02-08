@@ -65,60 +65,9 @@ jobs:
                      break
 
                  scanned += 1
-                 if uid > 15000:
-                     break
-      - name: "Half-build Sows index"
-        uses: jannekem/run-python-script-action@v1
-        with:
-          script: |
-            import os
-            import re
-            import csv
-            import html
-
-            import requests
-
-            cookies = {
-                "mobile_checked_other": "true",
-                "session": "sp80BuzaNrGY3L%2Fn6JzYTmo4SDB5bVZZUnM5ZzNaV3lWV"
-                           "kZYLys1cWlWdUdFWDBKUVpwVVM0enZwR0tBR0xOaHRGOWlh"
-                           "YzNKNkJydFQrTENITXJvNzlBclM5RFMyNjhESE5GUThUVDZ"
-                           "wVllKUU15RVFzbEk1ZzNmbStrNytpVzZZQTNtakxCVGJCcn"
-                           "l2TkVzZ2NxeDI4cFE0ZGdjcWVuZG1LY0QzZz09",
-                "PHPSESSID": "5l06j90ra99kg2dhgh0uur9f7g"
-            }
-            errors = 0
-            uid = 15001
-            scanned = 0
-
-            while True:
-                print(f"Currently scanning ID {uid}, please hang on...")
-                doc = requests.get(f"https://bemaniso.ws/user.php?id={uid}",
-                                   cookies=cookies, allow_redirects=False)
-
-                try:
-                    user_elem = re.findall(r'<a href="user\.php\?id=[0-9]+">\S+<\/a>',
-                                           doc.text)
-                    banned_elem = re.findall(r'<img src=\"static\/common\/symbols\/'
-                                             r'disabled\.png\".*?/>', doc.text)
-                    banned = 1 if banned_elem else 0
-                    username = re.sub(r"<[^>]*>", "", user_elem[0])
-                    with open("users.csv", "a") as f:
-                        writer = csv.writer(f)
-                        writer.writerow([uid, html.unescape(username), banned])
-                    uid += 1
-                    errors = 0
-                except IndexError:
-                    uid += 1
-                    errors += 1
-                    if errors < 1000:
-                        continue
-                    break
-
-                scanned += 1
       - name: "Publish the changes"
         uses: EndBug/add-and-commit@v9
         with:
           add: 'users.csv'
-          message: 'Update sows index with GitHub Actions'
+          message: 'Update Sows index with GitHub Actions'
             
