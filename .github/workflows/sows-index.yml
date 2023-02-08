@@ -12,15 +12,6 @@ jobs:
     steps:
       - name: "Check out the repository"
         uses: actions/checkout@v3
-      - name: "Configure the Python interpreter"
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11.2'
-      - name: "Install necessary packages"
-        uses: BSFishy/pip-action@v1
-        with:
-          packages: |
-            requests
       - name: "Half-build Sows index"
         uses: jannekem/run-python-script-action@v1
         with:
