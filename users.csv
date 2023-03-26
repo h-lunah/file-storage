@@ -549,7 +549,7 @@ uid,username,banned
 5364,HappyCow,0
 5369,cognizant2,0
 5373,Char,0
-5393,nitsuki,1
+5393,nitsuki,0
 5400,pyroko,0
 5402,Locker,0
 5405,DjLeeLee,1
@@ -5923,7 +5923,7 @@ uid,username,banned
 15213,nxxo,0
 15214,konata556,1
 15215,ilovey97,1
-15216,M2C1,0
+15216,M2C1,1
 15217,EnzoK9,0
 15218,imnotyourdude,1
 15219,Noneek,1
@@ -8833,7 +8833,7 @@ uid,username,banned
 18240,_dabus,0
 18241,andy,0
 18242,leonid,0
-18243,Deriklb,0
+18243,Deriklb,1
 18244,funkyenough,1
 18245,hyperhyper,0
 18246,joemirf,0
@@ -12298,7 +12298,7 @@ uid,username,banned
 21748,DirtyD,1
 21749,EvasiveDrop,1
 21750,kyouko573,0
-21751,tcy3086,0
+21751,tcy3086,1
 21752,intix,1
 21753,erpon,0
 21754,taimiso0319,0
@@ -12723,7 +12723,7 @@ uid,username,banned
 22186,Voltexian,1
 22187,lmaonaw,1
 22188,Xatheon,0
-22189,IKAZUCHI,1
+22189,IKAZUCHI,0
 22190,Fraisey,1
 22191,Yuiiginagi,1
 22192,Trapce,1
@@ -12803,7 +12803,7 @@ uid,username,banned
 22267,thosebananas,1
 22268,ctkun,1
 22269,Kaleodry,1
-22270,Matikfull,0
+22270,Matikfull,1
 22271,Lancel,0
 22272,Amp,0
 22273,Traesto,1
@@ -13111,7 +13111,7 @@ uid,username,banned
 22579,WeirdTheGuy,1
 22580,Gmo,1
 22581,LangDu,1
-22582,dxfang,0
+22582,dxfang,1
 22583,blankaex,1
 22584,shin'on,1
 22585,Arrival,1
@@ -15876,7 +15876,7 @@ uid,username,banned
 25369,dead1415,0
 25370,komochi,0
 25371,ninjason62,0
-25372,armitronomer,0
+25372,armitronomer,1
 25373,BE4U,0
 25374,clmnv,0
 25375,PretTyFish,0
@@ -16429,7 +16429,7 @@ uid,username,banned
 25925,Xab1n,1
 25926,RB_Oliver,1
 25927,pocket-cn,1
-25928,Clodsley,0
+25928,Clodsley,1
 25929,soundmaniac,1
 25930,farzanehezu6yn4xgm,1
 25931,kurkku,0
@@ -16482,7 +16482,7 @@ uid,username,banned
 25979,GONE,1
 25980,NoProduct,1
 25981,Dingleberry,1
-25982,pixelhanabi,0
+25982,pixelhanabi,1
 25983,FideLin,1
 25984,bxrru,0
 25985,qwerty,0
@@ -16670,7 +16670,7 @@ uid,username,banned
 26170,qwerty4dx,1
 26171,citlus,0
 26172,zmdyy0318,0
-26173,camelkill,0
+26173,camelkill,1
 26174,otaviotb,1
 26175,musans04,1
 26176,Kuriyama,0
@@ -17380,7 +17380,7 @@ uid,username,banned
 26889,VEGEMITE_GOD,1
 26890,ba34,0
 26891,resnovae,0
-26892,queteimportawn,0
+26892,queteimportawn,1
 26893,sdt31,0
 26894,melachi,0
 26895,tempblob,1
@@ -17477,7 +17477,7 @@ uid,username,banned
 26999,Sladdi,1
 27000,bmbt,1
 27001,roborobo,1
-27002,sigmamiku,0
+27002,sigmamiku,1
 27003,kizunayumeno,0
 27004,primetime99,1
 27005,Luna_Cat,0
@@ -17723,7 +17723,7 @@ uid,username,banned
 27251,yeetyeet710,1
 27252,Yun,0
 27253,TechGuru87,1
-27254,DayBreak,0
+27254,DayBreak,1
 27255,julibox,0
 27256,Eulb,0
 27257,retein,1
@@ -18143,7 +18143,7 @@ uid,username,banned
 27677,RaceTF,0
 27678,siberia_otaku,0
 27679,why102822,0
-27680,drainer,0
+27680,drainer,1
 27681,leinnesw,0
 27682,hinaruta,0
 27683,Fumo,0
@@ -18209,7 +18209,7 @@ uid,username,banned
 27743,kanedazama,0
 27744,wwxz,0
 27745,Lobopump,1
-27746,THE_RADICATED_TOTA,0
+27746,THE_RADICATED_TOTA,1
 27747,wolverine54,1
 27748,valspamme,0
 27749,Fivda,0
@@ -18297,7 +18297,7 @@ uid,username,banned
 27831,Sputony,0
 27832,CheungFun,0
 27833,kikenaiii,1
-27834,lukacat,0
+27834,lukacat,1
 27835,JIN856046491,0
 27836,Setsuu,1
 27837,konokyrie,1
@@ -18386,7 +18386,7 @@ uid,username,banned
 27921,patrick2dx,0
 27922,SATTRN,1
 27923,Epesi99,0
-27924,Spout7863,0
+27924,Spout7863,1
 27925,Clayworth,0
 27926,TheChilledDejw,0
 27927,Sopra,1
@@ -18448,8 +18448,8 @@ uid,username,banned
 27984,ecco_ITG,1
 27985,PhoeverAsian,1
 27986,greenforest135,1
-27987,patatita,0
-27988,Weem7093,0
+27987,patatita,1
+27988,Weem7093,1
 27989,poxdox,1
 27990,ernad,0
 27991,pokemonfr,0
@@ -18551,7 +18551,7 @@ uid,username,banned
 28088,braline,1
 28089,kasaragiroumen,0
 28090,notreallynola,1
-28091,Noodles,0
+28091,Noodles,1
 28092,KennethLias,0
 28093,whiskr,1
 28094,SpagottoB37,0
@@ -18696,7 +18696,7 @@ uid,username,banned
 28235,mashimarro,0
 28236,Leif-kun32X,0
 28237,ynbsb,0
-28238,FyadGhost,0
+28238,FyadGhost,1
 28239,comradesnarky,0
 28240,OpJoy,0
 28241,bemasneedo,0
@@ -18918,3 +18918,19 @@ uid,username,banned
 28458,Serum,0
 28459,tyrone81,0
 28460,TAMA-C,0
+28461,fei-yen,0
+28462,otter,0
+28463,PennPal573,0
+28464,gonefishing,0
+28465,qfchannel,0
+28466,幸福一家王小�,0
+28467,byt3f3nd,0
+28468,kknee9,0
+28469,bambooswordgirl,0
+28470,raykao1007,0
+28471,Trigger,0
+28472,eyelicker,0
+28473,AimshotMC,0
+28474,galer,0
+28475,cr3p,0
+28476,IKO,0
