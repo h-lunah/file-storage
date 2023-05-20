@@ -44,12 +44,13 @@ jobs:
                  print(f"Currently scanning ID {uid}, please hang on...")
                  doc = requests.get(f"https://bemaniso.ws/user.php?id={uid}",
                                     cookies=cookies, allow_redirects=False)
+                 text = doc.text[:25000]
 
                  try:
                      user_elem = re.findall(r'<a href="user\.php\?id=[0-9]+">\S+<\/a>',
-                                            doc.text)
+                                            text)
                      banned_elem = re.findall(r'<img src=\"static\/common\/symbols\/'
-                                              r'disabled\.png\".*?/>', doc.text)
+                                              r'disabled\.png\".*?/>', text)
                      banned = 1 if banned_elem else 0
                      username = re.sub(r"<[^>]*>", "", user_elem[0])
                      with open("users.csv", "a") as f:
