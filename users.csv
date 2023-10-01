@@ -62,7 +62,7 @@ uid,username,banned
 129,seiya,0
 132,Asi9,0
 137,Audity,1
-139,Motoko,0
+139,Motoko,1
 140,Sawao,1
 144,soom,0
 146,machineares,0
@@ -105,13 +105,13 @@ uid,username,banned
 277,iroha,0
 281,Momo,0
 284,UKN,1
-286,thefantom,0
+286,thefantom,1
 288,sephiroth702,0
 289,DDRNemesis,0
 290,Nifta,1
 291,waynec02,0
 292,billyjr82,0
-297,masipah,0
+297,masipah,1
 299,grahams13,0
 308,Opethian,0
 313,fAcelEss,0
@@ -171,8 +171,8 @@ uid,username,banned
 552,dmt172,0
 553,goobah,0
 555,etherstyle,1
-562,Scuba,0
-564,Atalva,0
+562,Scuba,1
+564,Atalva,1
 566,linclelinkpart5,0
 574,Ingle,0
 577,Dewgy,0
@@ -225,7 +225,7 @@ uid,username,banned
 849,zdemigoth,0
 851,azuki,0
 857,kimcicle,0
-861,Random,0
+861,Random,1
 864,snyper256,0
 871,LOKIOLR,1
 874,Iceman_B,0
@@ -263,7 +263,7 @@ uid,username,banned
 1093,maizie,0
 1105,Jouva,0
 1118,CuoReNeRo,1
-1125,Synthesis2k2,0
+1125,Synnite,0
 1126,axa64,0
 1181,bobsam,0
 1193,GPan,0
@@ -307,10 +307,10 @@ uid,username,banned
 1632,Netto,0
 1637,vang,0
 1642,EX,1
-1673,kaizoku,0
+1673,kaizoku,1
 1679,stc,0
 1685,kappaiidx,0
-1700,Sardius,0
+1700,Sardius,1
 1702,enojy,0
 1704,RK,1
 1716,flyers241,0
@@ -416,7 +416,7 @@ uid,username,banned
 3926,Fujwara906,0
 3928,aytm749,0
 3934,Shud,1
-3945,Enmity,0
+3945,Enmity,1
 3973,IIDXfan,0
 3982,KlashedKi,0
 3999,ranatalus,0
@@ -453,7 +453,7 @@ uid,username,banned
 4508,ddrtime,0
 4517,doctorfedora,0
 4518,Reeve,1
-4520,h4xor,0
+4520,h4xor,1
 4527,Moogle,0
 4529,mouseish,1
 4531,mopinks,1
@@ -466,7 +466,7 @@ uid,username,banned
 4589,Mysse,0
 4590,achan,0
 4593,Ledah,0
-4600,Naota,0
+4600,Naota,1
 4604,dohdoh,0
 4605,Wobbuffet,0
 4624,MonsterBlocks,0
@@ -526,7 +526,7 @@ uid,username,banned
 5098,Raoh,0
 5107,arno,1
 5109,Murasaki,0
-5110,mDaWg,0
+5110,mDaWg,1
 5114,djqaz,0
 5135,Raf,0
 5145,raziel36,1
@@ -603,7 +603,7 @@ uid,username,banned
 5786,Touhou,0
 5790,RealizE,0
 5811,uLTraCarL,0
-5814,spoonsman,0
+5814,spoonsman,1
 5815,dumpy,0
 5825,Smbu,0
 5826,yaak,1
@@ -644,9 +644,9 @@ uid,username,banned
 6081,Toshin,0
 6083,tripmacddy,0
 6089,teajay123321,0
-6096,Misocainea,0
+6096,Misocainea,1
 6112,Kumubou,0
-6113,Moo,0
+6113,Moo,1
 6118,Naore,1
 6141,Shinobiwan,1
 6143,servo,0
@@ -1156,7 +1156,7 @@ uid,username,banned
 9755,LordAsriel,1
 9757,operationx,1
 9758,aostanin,0
-9759,Renault,0
+9759,Renault,1
 9761,JJK,1
 9762,souriya,1
 9763,Ai,1
@@ -1164,7 +1164,7 @@ uid,username,banned
 9767,gustavoquara,1
 9768,Zackybear,1
 9769,Rashu,1
-9772,danyboy,0
+9772,danyboy,1
 9773,stoic,1
 9774,jindi,1
 9777,MafiaBoss,1
@@ -2301,7 +2301,7 @@ uid,username,banned
 11367,ez2mc,1
 11368,b0bx13,1
 11370,Darandulll,1
-11371,CorneliousJD,0
+11371,CorneliousJD,1
 11372,lalala3,1
 11373,HutoDole,1
 11374,Auron00,1
@@ -2706,7 +2706,7 @@ uid,username,banned
 11836,BlueCrystal,1
 11837,Griever,1
 11838,GunBuri,1
-11839,DDRtists,0
+11839,DDRtists,1
 11840,AdaMaNiaX,1
 11841,PIUPhantom,1
 11842,NX306,1
@@ -2833,7 +2833,7 @@ uid,username,banned
 11971,vicko,1
 11972,SaphiroAzure,0
 11973,Paper,1
-11974,Tyco,0
+11974,Tyco,1
 11975,Beamoo,0
 11976,konfusi0n,0
 11977,chuckieboi,1
@@ -2943,7 +2943,7 @@ uid,username,banned
 12086,Cypherz,1
 12087,swizzle,1
 12088,blankspace,1
-12089,lockpick,0
+12089,lockpick,1
 12090,Starscream,1
 12091,conkervertex,0
 12092,kiddjimmy1,1
@@ -2955,7 +2955,7 @@ uid,username,banned
 12098,RevenG,0
 12099,AstralSoniK,1
 12100,surasshu,1
-12101,Mireiyuu,0
+12101,Mireiyuu,1
 12102,Shenjoku,1
 12103,AzraelNT,1
 12104,Makan,0
@@ -2995,7 +2995,7 @@ uid,username,banned
 12138,scooterkid,1
 12139,Jaetei,1
 12140,candeejay,1
-12141,Woogicus,0
+12141,Woogicus,1
 12142,cytex11,1
 12143,metalgod666,1
 12144,kuroto,0
@@ -3028,7 +3028,7 @@ uid,username,banned
 12171,Sayuri1214,0
 12172,croovfe,1
 12173,Dagget,1
-12174,10bane01,0
+12174,10bane01,1
 12175,waluigi,0
 12176,R3dX2,1
 12177,Evi,0
@@ -3048,7 +3048,7 @@ uid,username,banned
 12191,Kezlin,1
 12192,Reaper,1
 12193,goofwear,0
-12194,TravisLill,0
+12194,TravisLill,1
 12195,sylcmyk+,0
 12196,fisqual,0
 12197,SpitefulCrow,1
@@ -3077,7 +3077,7 @@ uid,username,banned
 12220,kabukimono,1
 12221,Dickey,0
 12222,Keis,1
-12223,Ren,0
+12223,Ren,1
 12224,casiotone,1
 12225,hellomrhieu,1
 12226,togi,1
@@ -3093,7 +3093,7 @@ uid,username,banned
 12236,NerveBand,0
 12237,UKStepJester,1
 12238,DocAnonymous,1
-12239,Xizer,0
+12239,Xizer,1
 12240,empevo4,1
 12241,cosmicolor,1
 12242,Angelivency,1
@@ -3140,7 +3140,7 @@ uid,username,banned
 12283,Tjlep,1
 12284,smf,0
 12285,regularryan,1
-12286,Myst,0
+12286,Myst,1
 12287,Jimizzle,1
 12288,DarkShaolin,1
 12289,Geenz,0
@@ -3190,7 +3190,7 @@ uid,username,banned
 12333,mistadanshi,0
 12334,ChazIITG,1
 12335,Marouku,1
-12336,marik,0
+12336,marik,1
 12337,RainbowPony,1
 12338,feet,1
 12339,McBob11,1
@@ -3217,7 +3217,7 @@ uid,username,banned
 12360,Drazel,0
 12361,ZOOMAR,1
 12362,tipsyt,1
-12363,MatY,0
+12363,MatY,1
 12364,r00t,1
 12365,Roark,1
 12367,Theologicus,1
@@ -3403,7 +3403,7 @@ uid,username,banned
 12553,jimerax,1
 12554,lazerflesh,1
 12555,Matt1360,0
-12556,Lebon14,0
+12556,Lebon14,1
 12557,DJTomoe,0
 12558,n8otter,0
 12559,ddr765543321,1
@@ -3436,7 +3436,7 @@ uid,username,banned
 12587,Silver007,0
 12588,Squeeks,1
 12589,McDonalds,1
-12590,mihalich,0
+12590,mihalich,1
 12591,xroflmaowtfx,1
 12592,CherrySoda,1
 12593,dpalace,0
@@ -3510,7 +3510,7 @@ uid,username,banned
 12662,Oooch,1
 12663,EriCKY,1
 12664,chezmix,1
-12665,bdubs,0
+12665,bdubs,1
 12666,Rexall,1
 12667,jsw11,1
 12668,Kaboobi,1
@@ -3574,7 +3574,7 @@ uid,username,banned
 12728,Sekuhara,0
 12729,xmugenxek9x,1
 12730,psum,1
-12731,DanceGames,0
+12731,DanceGames,1
 12732,KDavis,0
 12733,owenbee,1
 12734,JimShoes,1
@@ -3594,9 +3594,9 @@ uid,username,banned
 12748,saltytaro,1
 12749,AstroRalph,1
 12750,Arkaine,0
-12751,Joako,0
+12751,Joako,1
 12752,jerseyjoe,1
-12753,kkn,0
+12753,kkn,1
 12754,Kanohane,1
 12755,thealexcubed,0
 12756,DarkNeo,1
@@ -3726,7 +3726,7 @@ uid,username,banned
 12883,Corbet,1
 12884,fdm,1
 12885,spike333,1
-12886,moose,0
+12886,moose,1
 12887,DJKazumi,1
 12888,Megaman,0
 12889,DiegoDDR,1
@@ -3757,7 +3757,7 @@ uid,username,banned
 12914,Akanepp,1
 12915,Frozenstreak,1
 12916,ibanezrx,1
-12917,scorer,0
+12917,scorer,1
 12918,Zalrus,0
 12919,Smolder,1
 12920,zL,1
@@ -3772,7 +3772,7 @@ uid,username,banned
 12929,Tatsh,0
 12930,swatt,0
 12931,Crusty,0
-12932,Filip,0
+12932,Filip,1
 12933,MooNWeeD,1
 12934,Tayaya,0
 12935,ThePackage,1
@@ -3811,7 +3811,7 @@ uid,username,banned
 12970,NTQ,1
 12971,Detail,1
 12972,KyouFuji,1
-12973,brokenever,0
+12973,brokenever,1
 12974,DKuwahara,0
 12975,rintin,1
 12976,ryc3,1
@@ -3972,13 +3972,13 @@ uid,username,banned
 13133,fir3pr00f,1
 13134,emoli,1
 13135,VobE,1
-13136,yokohimura,0
+13136,yokohimura,1
 13137,Klackerikio,1
 13138,sadpanda,0
 13139,rimu,0
 13140,DM,0
 13141,emutracer,1
-13142,KuKzz,0
+13142,KuKzz,1
 13143,BigBattle,0
 13144,ShadowZ,0
 13145,osoluche,1
@@ -4009,7 +4009,7 @@ uid,username,banned
 13171,DJBigz,0
 13172,dood,0
 13173,rienji,1
-13174,Zerstorung,0
+13174,Zerstorung,1
 13175,Saz,0
 13176,popheya0719,1
 13177,Dragoonhead,1
@@ -4159,7 +4159,7 @@ uid,username,banned
 13322,kingkong727,1
 13323,Arbalset,1
 13324,Questor97,1
-13325,mistaneat,0
+13325,mistaneat,1
 13326,BastardKing,1
 13327,jojoyam,1
 13328,SgranMan,1
@@ -5174,7 +5174,7 @@ uid,username,banned
 14401,taucub,0
 14402,Djtyrant,1
 14403,MADBLAST,0
-14404,Dari,1
+14404,Dari,0
 14405,Nate,1
 14406,Kibara,1
 14407,sedric,1
@@ -7838,7 +7838,7 @@ uid,username,banned
 17240,1059,0
 17241,kalex2,0
 17242,DamnRandall,0
-17243,b00mboxmonkey,0
+17243,b00mboxmonkey,1
 17244,Rasvasilli,0
 17245,bemario,0
 17246,DTrig,1
@@ -7892,7 +7892,7 @@ uid,username,banned
 17294,Ko7a,1
 17295,bbasse,0
 17296,sdencanted,0
-17297,jnfunction,0
+17297,kjplayer121,0
 17298,machikotransient,0
 17299,MikotoHE2,1
 17300,Mersenne,0
@@ -8674,7 +8674,7 @@ uid,username,banned
 18077,ChaosLemon,0
 18078,kuwabara,0
 18079,assertive,0
-18080,Ansuz,0
+18080,Ansuz,1
 18081,amandaspehar,1
 18082,5phere,0
 18083,hsreina,1
@@ -9465,7 +9465,7 @@ uid,username,banned
 18869,Hirosashii,0
 18870,katsumi,1
 18871,Conan3D,0
-18872,antraxxx,0
+18872,antraxxx,1
 18873,mjm,0
 18874,Arena,0
 18875,churist,1
@@ -11720,7 +11720,7 @@ uid,username,banned
 21125,plkqsd,0
 21126,Ookazi,1
 21127,Stythe,0
-21128,McJeebie,0
+21128,RenardIIDX,0
 21129,raid_adm,1
 21130,Nyazgriz,1
 21131,hideyoshi114514,1
@@ -15443,7 +15443,7 @@ uid,username,banned
 24848,eiya.EmT,0
 24849,Paradoxus,1
 24850,hgc,0
-24851,raruari,0
+24851,raruari,1
 24852,zerostar,0
 24853,Frank,0
 24854,Tokakitake,0
@@ -16124,7 +16124,7 @@ uid,username,banned
 25529,Ghyakima,0
 25530,PolarisPyra,0
 25531,Opposite34,1
-25532,Lyricalnyu,1
+25532,Lyricalnyu,0
 25533,keikyu2100,0
 25534,gryndan,0
 25535,Kazashi,0
@@ -16719,7 +16719,7 @@ uid,username,banned
 26124,Calibae,1
 26125,caketequila,1
 26126,LANA,1
-26127,Akira09,0
+26127,Akira09,1
 26128,macros2hp,1
 26129,Scoped,1
 26130,he01771186,0
@@ -17102,7 +17102,7 @@ uid,username,banned
 26507,Borealis,1
 26508,BFede,0
 26509,starmine15,0
-26510,Tsred,0
+26510,Tsred,1
 26511,tomochi,0
 26512,vvvulkan,1
 26513,povg,0
@@ -17267,7 +17267,7 @@ uid,username,banned
 26672,BarackObaka,0
 26673,Nicoras,1
 26674,siafu,0
-26675,kinudayo,0
+26675,kinudayo,1
 26676,ShiroTaiyaki,0
 26677,Poquet,1
 26678,kuromis,0
@@ -17409,7 +17409,7 @@ uid,username,banned
 26814,lobsterrrrrrr,0
 26815,yeonbari,0
 26816,Kyuko,0
-26817,YuNion,0
+26817,YuNion,1
 26818,AyakaNeko,1
 26819,Alps,0
 26820,djgrayon,1
@@ -17811,7 +17811,7 @@ uid,username,banned
 27229,confuoco320,0
 27230,Novizuke,0
 27231,motsi,0
-27232,ElSombras,1
+27232,ElSombras,0
 27233,hysteria357,0
 27234,KickBan,0
 27235,kiki-chan,1
@@ -17905,7 +17905,7 @@ uid,username,banned
 27323,GanDhee,1
 27324,SQWERLY!,0
 27325,Crunt,1
-27326,JaViLuMa,0
+27326,JaViLuMa,1
 27327,SKB*XU,0
 27328,f0rtify,1
 27329,dlgt,0
@@ -18191,7 +18191,7 @@ uid,username,banned
 27609,eminem,1
 27610,KolTheGrrreat,1
 27611,sirUserOfName,0
-27612,Synthesis2k2,0
+27612,Synnite,0
 27613,mikaeltarquin,0
 27614,0626,0
 27615,beat777,1
@@ -18223,7 +18223,7 @@ uid,username,banned
 27641,minichisha,0
 27642,tkk,0
 27643,Drozo,0
-27644,yuusha,0
+27644,yuusha,1
 27645,theform,0
 27646,cubbie,0
 27647,Triage_Level_99,0
@@ -19147,7 +19147,7 @@ uid,username,banned
 28565,SteamyBuns,1
 28566,sovann,1
 28567,dimouf@gmail.com,0
-28568,dorozuki,0
+28568,dorozuki,1
 28569,extraordiberry,0
 28570,8por?,0
 28571,wawaphi,0
@@ -19184,13 +19184,13 @@ uid,username,banned
 28602,Eclyps19,0
 28603,Brick_Davis,0
 28604,2LOVG,0
-28605,s1unsan33,0
+28605,s1unsan33,1
 28606,Aikyuu,0
 28607,AskyAskab,1
 28608,zee0523,0
 28609,App3nd.-,0
 28610,samiiross,0
-28611,NCORETech,0
+28611,NCORETech,1
 28612,dbsenckd2,0
 28613,boochan8675,0
 28614,ibizaspliffs,0
@@ -19441,3 +19441,17 @@ uid,username,banned
 28859,ClearAgumon,0
 28860,pienyan,0
 28861,sigure345,0
+28862,captaincheeto,0
+28863,DogCrow,0
+28864,Nauvatica,0
+28865,P3psi,0
+28866,Beny13,0
+28867,Funyarinpa,0
+28868,TEddyVLK,0
+28869,Paarunow,0
+28870,Vluezy,0
+28871,demicore,0
+28872,Reverie,0
+28873,wllmagic,0
+28874,Olbiaphlee,0
+28875,eXXo,0
