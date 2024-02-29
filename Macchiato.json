@@ -99,7 +99,8 @@
 		"TEXT_DANGER": ["#ed8796", "#ed8796"],
 		"TEXT_LINK": ["#b7bdf8", "#b7bdf8"],
 		"TEXT_POSITIVE": ["#eed49f", "#eed49f"],
-		"TEXT_WARNING": ["#ed8796", "#ed8796"]
+		"TEXT_WARNING": ["#ed8796", "#ed8796"],
+		"EMBED_BACKGROUND": ["#24273a", "#24273a"]
 		},
 		"rawColors": {
 			"BRAND_260": "#8839ef",
