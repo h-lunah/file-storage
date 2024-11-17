@@ -11,8 +11,8 @@ jobs:
     timeout-minutes: 720
     steps:
       - name: "Check out the repository"
-        uses: actions/checkout@v3
-      - name: "Half-build Sows index"
+        uses: actions/checkout@v4
+      - name: "Generate Sows index"
         uses: jannekem/run-python-script-action@v1
         with:
            script: |
